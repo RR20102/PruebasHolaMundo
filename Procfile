@@ -1,2 +1,2 @@
-web: gunicorn PruebasHolaMundo.wsgi
+web: gunicorn HolaMundo.wsgi
 
